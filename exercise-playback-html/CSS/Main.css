@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+div {
+    background-color: #979292;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+span {
+    background-color: rgb(255, 255, 255);
+}
+
+h2{background-color: #2d2f30;
+background-position: center;
+width: 90%;
+height: 30px;
+}
+
+Main{
+    font-family: 'Roboto', sans-serif;
+        display: flex;
+flex-direction: row-reverse;
+justify-content: flex-end ;
+}
