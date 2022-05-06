@@ -1,0 +1,166 @@
+.Container {
+    display: table;
+    border: 2px solid #000;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Row0 {
+    display: table-row;
+}
+
+
+
+
+.Row1 {
+    display: table-row;
+}
+
+.Row2 {
+    display: table-row;
+}
+
+.Row3 {
+    display: table-row;
+}
+
+.Column1, .Column2, .Column3, .Column4, .Column5, .Column6, .Column7, .Column8, .Column9, .Column10, .Column11, .Column12, .Column13, .Column14, .Column15, .Column15 {
+    display: table-cell;
+    border: 0.5px solid #000;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.Column0 {
+    display: table-cell;
+    border: 0px;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: green;
+}
+.Column0:hover{
+    opacity: 50%;
+}
+
+.Column16{
+    display: table-cell;
+    border: 0px;
+    vertical-align: middle;
+    padding: 10px;
+}
+.Column16:hover{
+    opacity: 50%;
+}
+
+.Column1{
+    background-color: #000;
+}
+.Column1:hover{
+    opacity: 50%;
+}
+
+.Column2{
+    background-color: teal;
+}
+.Column2:hover{
+    opacity: 50%;
+}
+
+.Column3{
+    background-color: blue;
+}
+.Column3:hover{
+    opacity: 50%;
+}
+
+.Column4{
+    background-color: navy;
+}
+.Column4:hover{
+    opacity: 50%;
+}
+
+.Column5{
+    background-color: lime;
+}
+.Column5:hover{
+    opacity: 50%;
+}
+
+.Column6{
+    background-color: white;
+}
+.Column6:hover{
+    opacity: 50%;
+}
+
+.Column7{
+    background-color: purple;
+}
+.Column7:hover{
+    opacity: 50%;
+}
+
+.Column8{
+    background-color: yellow;
+}
+.Column8:hover{
+    opacity: 50%;
+}
+
+.Column9 {
+    background-color: olive;
+}
+.Column9:hover{
+    opacity: 50%;
+}
+
+.Column10 {
+    background-color: red;
+}
+.Column10:hover{
+    opacity: 50%;
+}
+
+.Column11{
+    background-color: brown;
+}
+.Column11:hover{
+    opacity: 50%;
+}
+
+.Column12{
+    background-color: gray;
+}
+.Column12:hover{
+    opacity: 50%;
+}
+
+.Column13{
+    background-color: olive;
+}
+.Column13:hover{
+    opacity: 50%;
+}
+
+.Column14{
+    background-color: red;
+}
+.Column14:hover{
+    opacity: 50%;
+}
+
+.Column15{
+    background-color: fuchsia;
+}
+.Column15:hover{
+    opacity: 50%;
+}
+
+.Column16{
+    background-color: green;
+}
+.Column16:hover{
+    opacity: 50%;
+}
